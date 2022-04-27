@@ -1,1 +1,1 @@
-# ubiquant-market-prediction-EDA
+# ubiquant-market-prediction
